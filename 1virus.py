@@ -30,8 +30,8 @@ sys.stdout.flush()
 time.sleep(5)
 print(n)
 print("""
-[1]full memory format
-[2]set one virus """)
+[1]Admin
+[2]exit """)
 
 option = input("enter your choice")
 if option == "1":
