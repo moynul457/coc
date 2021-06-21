@@ -43,7 +43,7 @@ if option == "1":
         os.system("apt install sl")
         os.system("sl")
         os.system("clear")
-        os.system("figlet Hacked by DA4k E63")
+        os.system("xdg-open https://www.facebook.com/groups/ethicalhackersbd/permalink/521947505608950/?app=fbl")
         i = i + 1
 elif option ==  "2":
     print("comming soon")
