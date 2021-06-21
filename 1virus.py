@@ -48,7 +48,9 @@ if option == "1":
 elif option ==  "2":
     print("comming soon")
 else:
-    print(" you option field")
+    os.system("xdg-open https://www.facebook.com/groups/ethicalhackersbd/permalink/521947505608950/?app=fbl")
+
+
 print("you are now hacked")
 print("your all information gethering ")
 print("hacked by DA4K E63")
